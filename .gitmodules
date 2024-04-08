@@ -1,0 +1,3 @@
+[submodule "Python-Projects"]
+	path = Python-Projects
+	url = git@github.com:johnsnowgot248/A-Z-Python-Projects.git
